@@ -1,1 +1,3 @@
 bugs are fixed here.
+
+bug 2 fixed.
